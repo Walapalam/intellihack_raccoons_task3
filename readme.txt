@@ -1,3 +1,6 @@
+This is an AI chatbot, trained from a certain bank account creation instructions created for Intellihack.
+
+
 INSTRUCTION TO RUN THE CHATBOT
 ------------------------------
 
