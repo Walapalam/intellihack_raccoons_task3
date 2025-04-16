@@ -21,11 +21,6 @@ This project demonstrates the potential of large language models (LLMs) in impro
 
 ```plaintext
 ├── notebooks/          # Jupyter notebooks for training, evaluation, and usage  
-├── data/               # Example datasets or preprocessed inputs  
-├── models/             # Pre-trained or fine-tuned models  
-├── scripts/            # Helper scripts for data processing, training, or deployment  
-├── docs/               # Documentation and resources (images, architecture diagrams, etc.)  
-└── README.md           # Project overview and instructions  
 ```
 
 ## ⚙️ Installation
